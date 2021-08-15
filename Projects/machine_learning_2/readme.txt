@@ -1,0 +1,1 @@
+model  for image recognition with ML from: https://guymodscientist.medium.com/image-prediction-with-10-lines-of-code-3266f4039c7a
